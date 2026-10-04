@@ -1,0 +1,1 @@
+{"name":"codemap-marketplace","owner":{"name":"CodeMap"},"plugins":[{"name":"codemap","description":"Generate a deterministic interactive dependency map.","version":"1.0.0","source":"./"}]}

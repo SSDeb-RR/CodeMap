@@ -1,0 +1,6 @@
+interface:
+  display_name: CodeMap
+  short_description: Map verified code dependencies
+  default_prompt: Use $codemap to generate an interactive dependency map for this project.
+policy:
+  allow_implicit_invocation: true
